@@ -1,0 +1,504 @@
+body{
+    background-color: #006EB9;
+}
+h1{
+    color: #FFCC00;
+    font-family: "Monserrat", sans-serif;
+    text-shadow: #D5A100;
+    text-align: center;
+}
+.images{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.images img{
+    position: absolute;
+    background-color: #006EB9;
+}
+.pokeball{
+    height: 350px;
+    width: 350px;
+    z-index: 10;
+    position: absolute;
+}
+.bulbi{
+    z-index:0;
+}
+.herbi{
+    z-index:0;
+}
+.flori{
+    z-index:0;
+}
+.salam{
+    z-index:0;
+}
+.repti{
+    z-index:0;
+}
+.dracau{
+    z-index:0;
+}
+.carap{
+    z-index:0;
+}
+.carab{
+    z-index:0;
+}
+.torta{
+    z-index:0;
+}
+.chenip{
+    z-index:0;
+}
+.chrys{
+    z-index:0;
+}
+.papi{
+    z-index:0;
+}
+.aspic{
+    z-index:0;
+}
+.cocon{
+    z-index:0;
+}
+.darda{
+    z-index:0;
+}
+.roucoul{
+    z-index:0;
+}
+.roucoups{
+    z-index:0;
+}
+.rouca{
+    z-index:0;
+}
+.ratat{
+    z-index:0;
+}
+.ratac{
+    z-index:0;
+}
+.piaf{
+    z-index:0;
+}
+.raps{
+    z-index:0;
+}
+.abo{
+    z-index:0;
+}
+.arbo{
+    z-index:0;
+}
+.pika{
+    z-index:0;
+}
+.raichu{
+    z-index:0;
+}
+.sabel{
+    z-index:0;
+}
+.sablai{
+    z-index:0;
+}
+.nidofem{
+    z-index:0;
+}
+.nidorin{
+    z-index:0;
+}
+.nidoqueen{
+    z-index:0;
+}
+.nidomal{
+    z-index:0;
+}
+.nidorino{
+    z-index:0;
+}
+.nidokin{
+    z-index:0;
+}
+.melo{
+    z-index:0;
+}
+.melodel{
+    z-index:0;
+}
+.goupi{
+    z-index:0;
+}
+.feuna{
+    z-index:0;
+}
+.rondou{
+    z-index:0;
+}
+.grodou{
+    z-index:0;
+}
+.nosfe{
+    z-index:0;
+}
+.nosfer{
+    z-index:0;
+}
+.mysthe{
+    z-index:0;
+}
+.orti{
+    z-index:0;
+}
+.rafl{
+    z-index:0;
+}
+.paras{
+    z-index:0;
+}
+.pares{
+    z-index:0;
+}
+.mimi{
+    z-index:0;
+}
+.aero{
+    z-index:0;
+}
+.taupi{
+    z-index:0;
+}
+.trio{
+    z-index:0;
+}
+.maiou{
+    z-index:0;
+}
+.persi{
+    z-index:0;
+}
+.psyko{
+    z-index:0;
+}
+.akwa{
+    z-index:0;
+}
+.fero{
+    z-index:0;
+}
+.colo{
+    z-index:0;
+}
+.cani{
+    z-index:0;
+}
+.arca{
+    z-index:0;
+}
+.ptit{
+    z-index:0;
+}
+.teta{
+    z-index:0;
+}
+.tarta{
+    z-index:0;
+}
+.abra{
+    z-index:0;
+}
+.kada{
+    z-index:0;
+}
+.alak{
+    z-index:0;
+}
+.macho{
+    z-index:0;
+}
+.machop{
+    z-index:0;
+}
+.mako{
+    z-index:0;
+}
+.cheti{
+    z-index:0;
+}
+.bousti{
+    z-index:0;
+}
+.empi{
+    z-index:0;
+}
+.tenta{
+    z-index:0;
+}
+.tentac{
+    z-index:0;
+}
+.raca{
+    z-index:0;
+}
+.grava{
+    z-index:0;
+}
+.grolem{
+    z-index:0;
+}
+.pony{
+    z-index:0;
+}
+.galo{
+    z-index:0;
+}
+.ramo{
+    z-index:0;
+}
+.flaga{
+    z-index:0;
+}
+.magne{
+    z-index:0;
+}
+.magnon{
+    z-index:0;
+}
+.canar{
+    z-index:0;
+}
+.doduo{
+    z-index:0;
+}
+.dodri{
+    z-index:0;
+}
+.ota{
+    z-index:0;
+}
+.laman{
+    z-index:0;
+}
+.tadm{
+    z-index:0;
+}
+.grota{
+    z-index:0;
+}
+.koki{
+    z-index:0;
+}
+.crusta{
+    z-index:0;
+}
+.fanto{
+    z-index:0;
+}
+.spectr{
+    z-index:0;
+}
+.ecto{
+    z-index:0;
+}
+.onix{
+    z-index:0;
+}
+.sopo{
+    z-index:0;
+}
+.hypno{
+    z-index:0;
+}
+.krab{
+    z-index:0;
+}
+.krabo{
+    z-index:0;
+}
+.volto{
+    z-index:0;
+}
+.electro{
+    z-index:0;
+}
+.noeu{
+    z-index:0;
+}
+.noad{
+    z-index:0;
+}
+.osse{
+    z-index:0;
+}
+.ossa{
+    z-index:0;
+}
+.kick{
+    z-index:0;
+}
+.tygn{
+    z-index:0;
+}
+.excel{
+    z-index:0;
+}
+.smog{
+    z-index:0;
+}
+.smogro{
+    z-index:0;
+}
+.rhino{
+    z-index:0;
+}
+.rhinof{
+    z-index:0;
+}
+.levei{
+    z-index:0;
+}
+.sacq{
+    z-index:0;
+}
+.kangou{
+    z-index:0;
+}
+.hypo{
+    z-index:0;
+}
+.hypoc{
+    z-index:0;
+}
+.poissi{
+    z-index:0;
+}
+.poisso{
+    z-index:0;
+}
+.stari{
+    z-index:0;
+}
+.staross{
+    z-index:0;
+}
+.mime{
+    z-index:0;
+}
+.insec{
+    z-index:0;
+}
+.lipo{
+    z-index:0;
+}
+.elek{
+    z-index:0;
+}
+.magma{
+    z-index:0;
+}
+.scara{
+    z-index:0;
+}
+.tauro{
+    z-index:0;
+}
+.magic{
+    z-index:0;
+}
+.levia{
+    z-index:0;
+}
+.lock{
+    z-index:0;
+}
+.metam{
+    z-index:0;
+}
+.evo{
+    z-index:0;
+}
+.aqua{
+    z-index:0;
+}
+.volta{
+    z-index:0;
+}
+.pyro{
+    z-index:0;
+}
+.pory{
+    z-index:0;
+}
+.amon{
+    z-index:0;
+}
+.amonis{
+    z-index:0;
+}
+.kabu{
+    z-index:0;
+}
+.kabut{
+    z-index:0;
+}
+.ptera{
+    z-index:0;
+}
+.ronfl{
+    z-index:0;
+}
+.artik{
+    z-index:0;
+}
+.electro{
+    z-index:0;
+}
+.sulfu{
+    z-index:0;
+}
+.mini{
+    z-index:0;
+}
+.draco{
+    z-index:0;
+}
+.draloss{
+    z-index:0;
+}
+.mewtwo{
+    z-index:0;
+}
+.mew{
+    z-index:0;
+}
+
+
+.pokeballClick {
+    display: none;
+}
+.reload{
+    position: absolute;
+    top: 350px;
+    height: 50px;
+    width: 50px;
+    border-radius:50% ;
+    background-color: #FFCC00;
+    display: none;
+}
+.score {
+    font-family: "Montserrat" sans-serif;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    color: #FFCC00;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: underline;
+    z-index: 900;
+
+}
